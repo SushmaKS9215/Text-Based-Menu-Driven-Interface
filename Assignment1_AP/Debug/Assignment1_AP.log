@@ -1,0 +1,32 @@
+﻿  Text.cpp
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(45): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(61): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(76): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(99): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(101): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(102): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(121): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(122): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: see declaration of 'strcat'
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\text.cpp(124): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+  Menu.cpp
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\menu.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Driver.cpp
+c:\users\sushma\documents\visual studio 2017\projects\assignment1_ap\assignment1_ap\menu.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Assignment1_AP.vcxproj -> C:\Users\Sushma\documents\visual studio 2017\Projects\Assignment1_AP\Debug\Assignment1_AP.exe
+  Assignment1_AP.vcxproj -> C:\Users\Sushma\documents\visual studio 2017\Projects\Assignment1_AP\Debug\Assignment1_AP.pdb (Partial PDB)
